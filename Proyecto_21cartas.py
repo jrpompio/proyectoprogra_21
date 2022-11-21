@@ -4,7 +4,7 @@
 # el numero seleccionado se encuentra
 #### a rocha le pica el culo
 
-
+#### afsldñkfjalñjsdfalj justin solo piensa en A
 ##Import librerias y Funciones propias
 import numpy as np
 
