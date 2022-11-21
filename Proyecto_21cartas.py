@@ -2,9 +2,9 @@
 # El siguiente programa adivina el numero seleccionado
 # después de introducir 4 veces el valor de la columna en la que
 # el numero seleccionado se encuentra
-#### a rocha le pica el culo
 
-#### afsldñkfjalñjsdfalj justin solo piensa en A
+
+
 ##Import librerias y Funciones propias
 import numpy as np
 
