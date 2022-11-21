@@ -1,7 +1,7 @@
 #!/usr/bin/python3
-## El siguiente programa adivina el numero seleccionado
-## después de introducir 4 veces el valor de la columna en la que
-## el numero seleccionado se encuentra
+# El siguiente programa adivina el numero seleccionado
+# después de introducir 4 veces el valor de la columna en la que
+# el numero seleccionado se encuentra
 
 
 ##Import librerias y Funciones propias
